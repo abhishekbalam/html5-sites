@@ -1,1 +1,1 @@
-# A web panel to switch on and off a led from anywhere for the miniproject..
+# A web panel to switch on and off a led light from anywhere for the miniproject..
